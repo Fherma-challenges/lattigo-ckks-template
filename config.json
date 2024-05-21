@@ -1,0 +1,18 @@
+{
+    "Scheme":{
+        "LogN": 15,
+        "LogQ": [60, 45, 45, 45, 45, 45],
+        "LogP": [56, 55],
+        "LogDefaultScale": 45
+    },
+
+    "EvaluationKeys":{
+        "Relinearization:": true,
+        "Rotations": [1],
+        "GaloisElements":[65535]
+    },
+    
+    "Bootstrapping":{
+        "Enable": false
+    }
+}
